@@ -264,10 +264,6 @@ This project demonstrates:
 - [ ] Mobile-responsive improvements
 - [ ] Multi-language support
 
-## 👨‍💻 Author
 
 Built with ❤️ using LangChain, LangGraph & Streamlit
 
----
-
-**Happy Traveling! 🌍✈️**
