@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-google-genai
+langchain-community
+langgraph
+python-dotenv
+requests
+fpdf
+google-generativeai
+typing-extensions
