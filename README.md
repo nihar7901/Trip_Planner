@@ -1,5 +1,8 @@
 # 🌍 AI Travel Planner
 
+[Github link](https://github.com/nihar7901/Trip_Planner) \
+[Live Demo](https://trip-planner-lvoj.onrender.com/)
+
 An intelligent trip planning system powered by **Gemini 2.5 Flash**, **LangGraph**, and **Streamlit**. This application autonomously plans, evaluates, and optimizes travel options based on real-time weather data, budget constraints, and user preferences.
 
 ## ✨ Features
